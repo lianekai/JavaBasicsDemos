@@ -11,6 +11,9 @@
     <modules>
         <module>multi-thread-demo</module>
         <module>exception-study-demo</module>
+        <module>genericity-collection-demo</module>
+        <module>interface-polymorphism-demo</module>
+        <module>string-study-demo</module>
     </modules>
 
 
